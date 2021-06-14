@@ -1,0 +1,8 @@
+#ulTask li.done {
+  color: #6c757d;
+  text-decoration-line: line-through;
+}
+
+.btn {
+  width: 100%;
+}
